@@ -1,0 +1,81 @@
+*html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    width: 100%;
+    height: 50px;
+    background-color: #FF0000;
+}
+
+.b {
+    width:50%;
+    height: 100px;
+    background-color: #00FF00;
+    float: left;
+
+}
+
+.c {
+    width: 50%;
+    height: 100px;
+    background-color: #ffb300;
+    float: right;
+}
+
+.d {
+    width: 33.3%;
+    height: 100px;
+    background-color: #FFFF00;
+    float: left;
+}
+
+.e {
+    width: 33.4%;
+    height: 100px;
+    background-color: #00ffc3;
+    float: left;
+}
+
+.f {
+    width: 33.3%;
+    height: 100px;
+    background-color: #0077ff;
+    float: left;
+}
+
+.g {
+    width: 25%;
+    height: 100px;
+    background-color: #ff008c;
+    float: left;
+}
+
+.h {
+    width: 25%;
+    height: 100px;
+    background-color: #8000ff;
+    float: left;
+}
+
+.i {
+    width: 25%;
+    height: 100px;
+    background-color: #73ff00;
+    float: left;
+}
+
+.j {
+    width: 25%;
+    height: 100px;
+    background-color: #ae00ff;
+    float: left;
+}
+
+.k {
+    width: 100%;
+    height: 100px;
+    background-color: #130e11;
+    clear: both;
+}
